@@ -1,0 +1,44 @@
+johayoung@johayoung MINGW64 ~/report-card (master)
+$ git log
+commit 04b2e6a13322f8f32676b3a896b30066670c0091 (HEAD -> master, origin/master)
+Author: Joe Hayoung <johayoung77@gmail.com>
+Date:   Thu Sep 15 01:51:46 2022 +0900
+
+    report card: Get a average of grades
+
+    Signed-off-by: Joe Hayoung <johayoung77@gmail.com>
+
+commit a781998925c2ac6d43f9409330b976f6e8abdf2d
+Author: Joe Hayoung <johayoung77@gmail.com>
+Date:   Thu Sep 15 01:51:12 2022 +0900
+
+    report card: Show the sum of each grade
+
+    Signed-off-by: Joe Hayoung <johayoung77@gmail.com>
+
+
+commit fba3bfec278ca7d790ec1744c6c87625a98f6bf4
+Author: Joe Hayoung <johayoung77@gmail.com>
+Date:   Thu Sep 15 01:49:32 2022 +0900
+
+    report card: Print grades of each subject
+
+commit 5fa95ea99ed68988cebc93432f715dc27f9b15a9
+Author: Joe Hayoung <johayoung77@gmail.com>
+Date:   Thu Sep 15 01:47:15 2022 +0900
+
+    report card: Print a message of introduction
+
+commit 5617990cbfa98376684c7b6f66d0efec45d1b021
+Author:Joe Hayoung <johayoung77@gmail.com>
+Date:   Thu Sep 15 01:46:27 2022 +0900
+
+    report card: Add base code
+
+commit ca8d3b2ab189e8871a5df285745a99c42aba7367
+Author: Joe Hayoung <johayoung77@gmail.com>
+Date:   Thu Sep 15 01:45:48 2022 +0900
+
+    report card : Add question PDF
+(END)
+
